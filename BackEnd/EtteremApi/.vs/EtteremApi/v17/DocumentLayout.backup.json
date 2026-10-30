@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Vizsga_project\\BackEnd\\EtteremApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC5B81-B859-4933-AC29-37BD52F20968}|EtteremApi.csproj|c:\\vizsga_project\\backend\\etteremapi\\migrations\\20261030110931_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CC5B81-B859-4933-AC29-37BD52F20968}|EtteremApi.csproj|solutionrelative:migrations\\20261030110931_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC5B81-B859-4933-AC29-37BD52F20968}|EtteremApi.csproj|c:\\vizsga_project\\backend\\etteremapi\\adatmodel\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CC5B81-B859-4933-AC29-37BD52F20968}|EtteremApi.csproj|solutionrelative:adatmodel\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC5B81-B859-4933-AC29-37BD52F20968}|EtteremApi.csproj|c:\\vizsga_project\\backend\\etteremapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CC5B81-B859-4933-AC29-37BD52F20968}|EtteremApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC5B81-B859-4933-AC29-37BD52F20968}|EtteremApi.csproj|c:\\vizsga_project\\backend\\etteremapi\\data\\etteremcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37CC5B81-B859-4933-AC29-37BD52F20968}|EtteremApi.csproj|solutionrelative:data\\etteremcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC5B81-B859-4933-AC29-37BD52F20968}|EtteremApi.csproj|c:\\vizsga_project\\backend\\etteremapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37CC5B81-B859-4933-AC29-37BD52F20968}|EtteremApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261030110931_Init.cs",
+              "DocumentMoniker": "C:\\Vizsga_project\\BackEnd\\EtteremApi\\Migrations\\20261030110931_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261030110931_Init.cs",
+              "ToolTip": "C:\\Vizsga_project\\BackEnd\\EtteremApi\\Migrations\\20261030110931_Init.cs",
+              "RelativeToolTip": "Migrations\\20261030110931_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:09:31.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Vizsga_project\\BackEnd\\EtteremApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Vizsga_project\\BackEnd\\EtteremApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-30T11:03:05.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EtteremContext.cs",
+              "DocumentMoniker": "C:\\Vizsga_project\\BackEnd\\EtteremApi\\Data\\EtteremContext.cs",
+              "RelativeDocumentMoniker": "Data\\EtteremContext.cs",
+              "ToolTip": "C:\\Vizsga_project\\BackEnd\\EtteremApi\\Data\\EtteremContext.cs",
+              "RelativeToolTip": "Data\\EtteremContext.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T10:54:48.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Vizsga_project\\BackEnd\\EtteremApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Vizsga_project\\BackEnd\\EtteremApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T10:48:51.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Vizsga_project\\BackEnd\\EtteremApi\\Adatmodel\\Class.cs",
+              "RelativeDocumentMoniker": "Adatmodel\\Class.cs",
+              "ToolTip": "C:\\Vizsga_project\\BackEnd\\EtteremApi\\Adatmodel\\Class.cs",
+              "RelativeToolTip": "Adatmodel\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T10:44:39.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
